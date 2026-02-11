@@ -18,3 +18,8 @@ Console-based execution
 How to Run the Project :
 python STACKWITHBACK.py
 python DLX.py
+
+
+## Screenshot
+
+![Efficient-Text-Indexing-DSA](sudoko_backtracking.png)
