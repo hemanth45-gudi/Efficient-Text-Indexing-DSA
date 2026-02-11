@@ -22,4 +22,5 @@ python DLX.py
 
 ## Screenshot
 
-![Efficient-Text-Indexing-DSA](sudoko_backtracking.png)
+![Sudoku Solver](sudoko_backtracking.jpg)
+
